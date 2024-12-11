@@ -1,5 +1,5 @@
 # 👺 Kimetsu no Yaiba Gallery ⚔️
-⛩️ An interactive project that showcases a dynamic gallery with responsive design and fluid visuals, inspired by Kimetsu no Yaiba.
+⛩️ A simple and elegant gallery showcasing the iconic characters from Kimetsu no Yaiba created with HTML and CSS.
 
 ## Features
 - 📸 Interactive Gallery: displays images that expand when you hover over them.
