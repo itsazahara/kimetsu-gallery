@@ -13,3 +13,5 @@
 ## Design Highlights
 - 🌟 Minimalist Design: A clear and simple layout to highlight the character images.
 - 🎨 Soft and Natural Colors: Images with elegant contrast and opacity adjustment.
+
+[![](https://markdown-videos.deta.dev/youtube/5xz_Cvcbgu0)](https://youtu.be/5xz_Cvcbgu0?si=EIQQgFEHXJ54b8xF)
